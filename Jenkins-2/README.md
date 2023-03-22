@@ -1,0 +1,1 @@
+This is a multi stage jenkins pipeline where each stage run on a unique docker agent. useful when organisation has multi language application or application that has conflicting dependencies.
