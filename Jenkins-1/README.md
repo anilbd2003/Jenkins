@@ -1,1 +1,2 @@
-This is basic jenkins pipeline to verify docker slave configuration using node image '19-alpine3.17'.
+This is simple jenkins pipeline to verify docker slave configuration using node image '19-alpine3.17'.
+
